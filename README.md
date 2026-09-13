@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:2563EB,75:7C3AED,100:06B6D4&height=230&section=header&text=POUYA%20AZIZZADEH&fontSize=56&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20RESEARCHER%20%7C%20COMPUTER%20VISION%20ENGINEER%20%7C%20DATA%20SCIENTIST&descAlignY=57&descSize=15&descColor=67E8F9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,65:312E81,100:0891B2&height=240&section=header&text=POUYA%20AZIZZADEH&fontSize=58&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20RESEARCHER%20%7C%20COMPUTER%20VISION%20ENGINEER%20%7C%20DATA%20SCIENTIST&descAlignY=57&descSize=16&descColor=67E8F9" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=19\&duration=3000\&pause=900\&color=67E8F9\&center=true\&vCenter=true\&width=800\&lines=%3E+building+intelligent+vision+systems...;%3E+turning+research+into+production...;%3E+engineering+Generative+AI+pipelines...;%3E+exploring+RAG%2C+LLMs+%26+multimodal+AI...;%3E+solving+real-world+problems+with+machine+learning...)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=600\&size=20\&duration=3200\&pause=900\&color=67E8F9\&center=true\&vCenter=true\&width=850\&lines=%3E+researching+intelligent+systems...;%3E+engineering+machine+learning+solutions...;%3E+exploring+computer+vision+%26+generative+AI...;%3E+connecting+research+with+real-world+impact...;%3E+building+scalable+%26+reliable+AI...)](https://git.io/typing-svg)
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:7C3AED&height=4&section=header" width="100%"/>
 
@@ -11,11 +15,13 @@
 <a href="https://github.com/Pouya-Azizzadh">
 <img src="https://img.shields.io/badge/GitHub-Pouya--Azizzadh-0B1020?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/pouya-azizzade">
 <img src="https://img.shields.io/badge/LinkedIn-Pouya%20Azizzadeh-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
+
 <a href="mailto:pwyazyzzadhbna@gmail.com">
-<img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Email-pwyazyzzadhbna%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br><br>
@@ -28,410 +34,801 @@
 
 <div align="center">
 
-### 🧠 `SYSTEM.IDENTITY`
+## `whoami`
 
-</div>
+### 🧠 AI Researcher
 
-```text
-┌──(pouya@ai-lab)-[~]
-└─$ whoami
+### 👁️ Computer Vision Engineer
 
-pouya_azizzadeh.ai
+### 📊 Data Scientist
 
-🔵 ROLE         AI Researcher | Computer Vision Engineer | Data Scientist
-🔵 EXPERIENCE   3+ years in Artificial Intelligence & Machine Learning
-🔵 FOCUS        Computer Vision · Generative AI · NLP · Spatial ML
-🔵 SPECIALTY    Research → Prototype → Production
-🔵 STACK        Python · PyTorch · TensorFlow · FastAPI · LangChain
-🔵 CURRENT      Building intelligent, scalable AI systems
-
-└─$ cat mission.log
-
-[RESEARCH]
-→ Designing ML/DL systems for real-world scientific & industrial problems
-
-[COMPUTER_VISION]
-→ Object Detection · Segmentation · GANs · VLMs · OpenCV · YOLO
-
-[GENERATIVE_AI]
-→ LLMs · RAG · Embeddings · LangChain · LangGraph · Transformers
-
-[DEPLOYMENT]
-→ FastAPI · Docker · ONNX · TensorRT · REST APIs
-
-[SPATIAL_AI]
-→ GeoPandas · Rasterio · Spatial ML · Climate Risk Modeling
-
-[PHILOSOPHY]
-→ Research with purpose.
-→ Engineering with reproducibility.
-→ Build AI that can actually be deployed.
-
-└─$ ▮
-```
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=4&section=header" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
 
-### ⚡ `CORE_TECHNOLOGY_STACK`
+> **Researching intelligent systems. Engineering practical AI.**
+>
+> *Turning ideas, algorithms, and research into reliable computational systems.*
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🧬 `ABOUT_ME`
+
+</div>
+
+<br>
+
+I am an **AI Researcher, Computer Vision Engineer, and Data Scientist** with **3+ years of experience** in designing, developing, and researching systems based on **Machine Learning and Deep Learning**.
+
+My work sits at the intersection of **research, intelligent algorithms, data-driven modeling, and production-oriented AI engineering**.
+
+I am particularly interested in transforming research ideas into **practical, scalable, and deployable intelligent systems** across Computer Vision, Generative AI, Natural Language Processing, Machine Learning, and spatial data intelligence.
+
+My approach is not limited to training models. I care about the complete lifecycle of an AI system:
+
+```text
+Research
+   ↓
+Problem Formulation
+   ↓
+Data
+   ↓
+Feature Engineering
+   ↓
+Model Architecture
+   ↓
+Training & Optimization
+   ↓
+Evaluation
+   ↓
+Interpretability
+   ↓
+Deployment
+   ↓
+Real-World Impact
+```
+
+I enjoy working on problems where **mathematics, algorithms, data, and engineering** come together to create systems that are not only accurate, but also **reliable, explainable, reproducible, and useful**.
+
+---
+
+<div align="center">
+
+## 🔭 `RESEARCH_INTERESTS`
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="33%">
 
-<b>🧠 Deep Learning</b>
+<td align="center" width="25%">
 
-<br><br>
+### 👁️
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"/>
+### Computer Vision
 
-<br><br>
+Deep visual intelligence
 
-<img src="https://img.shields.io/badge/CNN-0B1020?style=for-the-badge&logo=pytorch&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/RNN_%7C_LSTM-0B1020?style=for-the-badge&logo=keras&logoColor=2563EB"/>
-<img src="https://img.shields.io/badge/Transformers-0B1020?style=for-the-badge&logo=huggingface&logoColor=7C3AED"/>
+`Object Detection`
 
-<br>
+`Segmentation`
 
-<img src="https://img.shields.io/badge/GNN-0B1020?style=for-the-badge&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/LoRA-0B1020?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Transfer_Learning-0B1020?style=for-the-badge&logoColor=2563EB"/>
+`VLMs`
 
-</td>
+`GANs`
 
-<td align="center" width="33%">
+`YOLO`
 
-<b>👁️ Computer Vision</b>
+`OpenCV`
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/YOLO-0B1020?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Segmentation-0B1020?style=for-the-badge&logoColor=2563EB"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Object_Detection-0B1020?style=for-the-badge&logoColor=7C3AED"/>
-<img src="https://img.shields.io/badge/GANs-0B1020?style=for-the-badge&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/VLMs-0B1020?style=for-the-badge&logoColor=67E8F9"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/MediaPipe-0B1020?style=for-the-badge&logo=google&logoColor=FFFFFF"/>
+`MediaPipe`
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-<b>🤖 Generative AI</b>
+### 🤖
+
+### Generative AI
+
+Intelligent generation
+
+`LLMs`
+
+`RAG`
+
+`Embeddings`
+
+`Transformers`
+
+`LangChain`
+
+`LangGraph`
+
+`Prompt Engineering`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+### Deep Learning
+
+Representation learning
+
+`CNN`
+
+`RNN`
+
+`LSTM`
+
+`GNN`
+
+`LoRA`
+
+`Transfer Learning`
+
+`PyTorch`
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍
+
+### Spatial AI
+
+Intelligence over space
+
+`Spatial ML`
+
+`GIS`
+
+`GeoPandas`
+
+`Rasterio`
+
+`Climate Risk`
+
+`Geospatial Data`
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⚙️ `TECHNICAL_EXPERTISE`
+
+</div>
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🐍 Programming & Data
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/LLMs-0B1020?style=for-the-badge&logo=openai&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/RAG-0B1020?style=for-the-badge&logoColor=2563EB"/>
+**Languages**
 
-<br>
+`Python` · `SQL`
 
-<img src="https://img.shields.io/badge/LangChain-0B1020?style=for-the-badge&logo=chainlink&logoColor=7C3AED"/>
-<img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logoColor=06B6D4"/>
+**Data Science**
 
-<br>
+`NumPy` · `Pandas` · `Scikit-learn`
 
-<img src="https://img.shields.io/badge/Embeddings-0B1020?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-0B1020?style=for-the-badge&logoColor=2563EB"/>
+**Data Processing**
+
+`Spark` · `Feature Engineering`
+
+**Databases**
+
+`SQLite` · `PostgreSQL`
+
+**Vector Search**
+
+`FAISS` · `Vector Databases`
 
 </td>
+
+<td width="50%" valign="top">
+
+### 🔥 Deep Learning
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+<br><br>
+
+**Architectures**
+
+`CNNs` · `RNNs` · `LSTMs` · `GNNs`
+
+`Transformers` · `GANs`
+
+**Advanced Techniques**
+
+`Transfer Learning` · `LoRA`
+
+**Optimization**
+
+`Model Optimization` · `Metaheuristics`
+
+</td>
+
 </tr>
 
 <tr>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<b>🔬 Reinforcement Learning</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MARL-0B1020?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/PPO-0B1020?style=for-the-badge&logoColor=2563EB"/>
+### 👁️ Computer Vision
 
 <br>
 
-<img src="https://img.shields.io/badge/DQN-0B1020?style=for-the-badge&logoColor=7C3AED"/>
-<img src="https://img.shields.io/badge/Policy_Gradient-0B1020?style=for-the-badge&logoColor=06B6D4"/>
+**Visual Intelligence**
+
+`Object Detection`
+
+`Image Segmentation`
+
+`Image Processing`
+
+`Generative Vision`
+
+`Vision-Language Models`
+
+<br>
+
+**Frameworks & Tools**
+
+`OpenCV` · `YOLO` · `MediaPipe`
+
+`PyTorch` · `TensorFlow`
+
+`GANs`
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-<b>🚀 MLOps & Deployment</b>
+### 🤖 Generative AI & NLP
 
-<br><br>
+<br>
+
+**Large Language Models**
+
+`LLMs` · `Transformers`
+
+`Embeddings` · `Prompt Engineering`
+
+<br>
+
+**AI Applications**
+
+`RAG` · `Semantic Search`
+
+`Retrieval Systems`
+
+<br>
+
+**Frameworks**
+
+`LangChain` · `LangGraph`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 Reinforcement Learning
+
+<br>
+
+**Paradigms**
+
+`Reinforcement Learning`
+
+`Multi-Agent Reinforcement Learning`
+
+<br>
+
+**Algorithms**
+
+`PPO`
+
+`DQN`
+
+`Policy Gradient`
+
+<br>
+
+**Focus**
+
+`Decision Making`
+
+`Sequential Optimization`
+
+`Multi-Agent Systems`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📐 Optimization & Decision Intelligence
+
+<br>
+
+**Optimization**
+
+`Multi-Objective Optimization`
+
+`Metaheuristics`
+
+`Decision Making`
+
+<br>
+
+**Modeling**
+
+`Prediction`
+
+`Risk Modeling`
+
+`Pattern Recognition`
+
+`Data-Driven Optimization`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 MLOps & AI Engineering
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=docker,fastapi&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ONNX-0B1020?style=for-the-badge&logo=onnx&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/TensorRT-0B1020?style=for-the-badge&logo=nvidia&logoColor=76B900"/>
+`FastAPI`
 
-<br>
+`REST APIs`
 
-<img src="https://img.shields.io/badge/REST_API-0B1020?style=for-the-badge&logo=fastapi&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Pydantic-0B1020?style=for-the-badge&logo=pydantic&logoColor=7C3AED"/>
+`Pydantic`
 
-</td>
+`Docker`
 
-<td align="center" width="33%">
+`ONNX`
 
-<b>📊 Data & Spatial AI</b>
+`TensorRT`
 
-<br><br>
+`Model Serving`
 
-<img src="https://skillicons.dev/icons?i=python,postgresql&theme=dark"/>
+`AI Deployment`
 
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-0B1020?style=for-the-badge&logo=numpy&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Pandas-0B1020?style=for-the-badge&logo=pandas&logoColor=2563EB"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/FAISS-0B1020?style=for-the-badge&logoColor=7C3AED"/>
-<img src="https://img.shields.io/badge/GeoPandas-0B1020?style=for-the-badge&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Rasterio-0B1020?style=for-the-badge&logoColor=67E8F9"/>
+`Production Pipelines`
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-
-<td align="center" width="33%">
-
-<b>⚙️ Optimization</b>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Decision_Making-0B1020?style=for-the-badge&logoColor=67E8F9"/>
-<img src="https://img.shields.io/badge/Metaheuristics-0B1020?style=for-the-badge&logoColor=2563EB"/>
+### 🌐 Software Engineering
 
 <br>
-
-<img src="https://img.shields.io/badge/Multi--Objective-0B1020?style=for-the-badge&logoColor=7C3AED"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<b>🌐 Web Development</b>
-
-<br><br>
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,django&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=06B6D4"/>
+`Next.js`
 
-</td>
+`React`
 
-<td align="center" width="33%">
+`Django`
 
-<b>🗃️ Data Engineering</b>
+`FastAPI`
 
-<br><br>
+`REST Architecture`
 
-<img src="https://skillicons.dev/icons?i=sqlite,postgres&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Spark-0B1020?style=for-the-badge&logo=apachespark&logoColor=FBBF24"/>
+`AI-powered Web Applications`
 
 </td>
 
 </tr>
+
 </table>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:7C3AED&height=4&section=header" width="100%"/>
-
-### 🔬 `RESEARCH.EXPERIENCE`
+## 🧠 `AI_KNOWLEDGE_MAP`
 
 </div>
 
 ```text
-╭──────────────────────────────────────────────────────────────────────╮
-│  AI RESEARCHER — SUSTAINABLE ENERGY INSTITUTE                       │
-│  1402 — PRESENT                                                     │
-╰──────────────────────────────────────────────────────────────────────╯
-
-▸ Leading AI R&D initiatives for sustainable-energy applications
-▸ Designing ML / DL prototypes for intelligent production systems
-▸ Developing end-to-end pipelines:
-  
-  Data → Preprocessing → Training → Optimization → Deployment
-
-▸ Building Generative AI and RAG-based systems
-▸ Developing AI applications with Django / FastAPI + React / Next.js
-▸ Containerizing production systems with Docker
-▸ Engineering spatial ML solutions for climate-risk analysis
-▸ Working with GAN-based conditional architectures
-▸ Collaborating across multidisciplinary teams to transform research
-  into deployable AI products
+                         ARTIFICIAL INTELLIGENCE
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+       MACHINE LEARNING     DEEP LEARNING        GENERATIVE AI
+             │                    │                    │
+       ┌─────┼─────┐       ┌──────┼──────┐       ┌─────┼─────┐
+       │     │     │       │      │      │       │     │     │
+       ▼     ▼     ▼       ▼      ▼      ▼       ▼     ▼     ▼
+      ML    RL   OPT      CNN    RNN    GNN     LLM   RAG   VLM
+       │     │     │       │      │      │       │     │     │
+       │     │     │       └──────┼──────┘       └─────┼─────┘
+       │     │     │              │                    │
+       └─────┴─────┴──────────────┼────────────────────┘
+                                  │
+                                  ▼
+                         INTELLIGENT SYSTEMS
+                                  │
+                ┌─────────────────┼─────────────────┐
+                │                 │                 │
+                ▼                 ▼                 ▼
+             VISION            NLP / AI          SPATIAL
+                │                 │                 │
+                └─────────────────┼─────────────────┘
+                                  │
+                                  ▼
+                         PRODUCTION AI / MLOps
 ```
 
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│  COMPUTER VISION SPECIALIST — VORTEM                                │
-│  1403                                                              │
-╰──────────────────────────────────────────────────────────────────────╯
-
-▸ Designing and implementing specialized Computer Vision pipelines
-▸ Image processing and intelligent visual analysis
-▸ Building production-oriented vision architectures
-```
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=4&section=header" width="100%"/>
+## 🧩 `DEEP_LEARNING`
 
-### 🚀 `SELECTED_PROJECTS`
+</div>
+
+I work across multiple families of deep learning architectures and approaches, with an emphasis on understanding **why a model works**, how it can be optimized, and how it can be integrated into a larger intelligent system.
+
+```text
+CNN
+│
+├── Visual Representation
+├── Feature Extraction
+└── Computer Vision
+
+RNN / LSTM
+│
+├── Sequential Modeling
+├── Time-Series Intelligence
+└── Temporal Prediction
+
+GNN
+│
+├── Graph Representation
+├── Relational Learning
+└── Structured Data
+
+Transformers
+│
+├── Attention Mechanisms
+├── Language Modeling
+├── Multimodal Intelligence
+└── Representation Learning
+
+GANs
+│
+├── Generative Modeling
+├── Conditional Generation
+└── Synthetic Data
+
+LoRA / Transfer Learning
+│
+├── Efficient Adaptation
+└── Domain-Specific Modeling
+```
+
+---
+
+<div align="center">
+
+## 👁️ `COMPUTER_VISION`
+
+</div>
+
+My Computer Vision interests cover the complete path from **raw visual data to intelligent interpretation**.
+
+```text
+IMAGE / VIDEO
+      │
+      ▼
+PREPROCESSING
+      │
+      ├── OpenCV
+      ├── Filtering
+      ├── Feature Processing
+      └── Data Preparation
+      │
+      ▼
+REPRESENTATION
+      │
+      ├── CNNs
+      ├── Transformers
+      └── Vision Models
+      │
+      ▼
+UNDERSTANDING
+      │
+      ├── Object Detection
+      ├── Segmentation
+      ├── Classification
+      ├── Pattern Recognition
+      └── VLMs
+      │
+      ▼
+GENERATION
+      │
+      └── GANs
+      │
+      ▼
+DEPLOYMENT
+      │
+      ├── ONNX
+      ├── TensorRT
+      └── FastAPI
+```
+
+---
+
+<div align="center">
+
+## 🤖 `GENERATIVE_AI`
+
+</div>
+
+I am interested in **Generative AI as an engineering discipline**, not simply as an interface to an LLM.
+
+My focus includes:
+
+* **Large Language Models**
+* **Retrieval-Augmented Generation**
+* **Embeddings & semantic representations**
+* **Vector search**
+* **Prompt Engineering**
+* **Transformer architectures**
+* **LangChain**
+* **LangGraph**
+* **LLM application architecture**
+* **Local / optimized model inference**
+* **AI-powered APIs**
+
+A typical AI system can be viewed as:
+
+```text
+                    USER
+                     │
+                     ▼
+                  QUERY
+                     │
+                     ▼
+              ┌──────────────┐
+              │  EMBEDDING   │
+              └──────┬───────┘
+                     │
+                     ▼
+              VECTOR RETRIEVAL
+                     │
+                     ▼
+              CONTEXT BUILDING
+                     │
+                     ▼
+                  LLM / VLM
+                     │
+                     ▼
+               RESPONSE
+                     │
+                     ▼
+               APPLICATION
+```
+
+---
+
+<div align="center">
+
+## 🌍 `SPATIAL_INTELLIGENCE`
+
+</div>
+
+Another important part of my technical interests is the intersection of **Machine Learning and spatial data**.
+
+I work with concepts and tools related to:
+
+`GeoPandas`
+
+`Rasterio`
+
+`Spatial Machine Learning`
+
+`Geographical Feature Engineering`
+
+`Climate Risk`
+
+`Raster Data`
+
+`Spatial Prediction`
+
+This allows machine learning models to move beyond traditional tabular data and reason about **where** phenomena occur as well as **what** patterns exist within the data.
+
+---
+
+<div align="center">
+
+## 🎯 `REINFORCEMENT_LEARNING`
+
+</div>
+
+My reinforcement learning interests include both single-agent and multi-agent decision-making systems.
+
+```text
+                 ENVIRONMENT
+                      │
+                      ▼
+                   STATE
+                      │
+                      ▼
+                   AGENT
+                      │
+                      ▼
+                   POLICY
+                      │
+              ┌───────┴────────┐
+              ▼                ▼
+             PPO              DQN
+              │                │
+              └───────┬────────┘
+                      ▼
+                   ACTION
+                      │
+                      ▼
+                   REWARD
+                      │
+                      └──────────► LEARNING LOOP
+```
+
+Areas of interest:
+
+`MARL` · `PPO` · `DQN` · `Policy Gradient`
+
+`Decision Making` · `Optimization` · `Sequential Learning`
+
+---
+
+<div align="center">
+
+## 🚀 `FROM_RESEARCH_TO_PRODUCTION`
+
+</div>
+
+One of my strongest interests is closing the gap between **AI research and usable software**.
+
+I approach AI systems as complete engineering pipelines:
+
+```text
+             RESEARCH
+                │
+                ▼
+        PROBLEM DEFINITION
+                │
+                ▼
+          DATA PIPELINE
+                │
+                ▼
+       MODEL DEVELOPMENT
+                │
+                ▼
+       EXPERIMENTATION
+                │
+                ▼
+        MODEL EVALUATION
+                │
+        ┌───────┴───────┐
+        ▼               ▼
+   INTERPRETABILITY   OPTIMIZATION
+        │               │
+        └───────┬───────┘
+                ▼
+            API LAYER
+                │
+                ▼
+           CONTAINER
+                │
+                ▼
+           DEPLOYMENT
+                │
+                ▼
+        PRODUCTION SYSTEM
+```
+
+This is why technologies such as **FastAPI, Docker, ONNX, TensorRT, Pydantic, REST APIs, and modern web frameworks** are part of my broader AI engineering toolkit.
+
+---
+
+<div align="center">
+
+## 📚 `MY_ENGINEERING_MINDSET`
 
 </div>
 
 <table align="center">
 
 <tr>
-<td width="50%" valign="top">
 
-### 🌍 Climate Dryness Generation
+<td align="center" width="25%">
 
-**Conditional GAN · Spatial ML · Climate Risk**
+### 🔬
 
-> Generating future SPI raster scenarios using historical climate data and conditional GAN architectures.
+**Research Driven**
 
-**Stack**
-
-`PyTorch` `GANs` `PyWavelets` `Rasterio` `GeoPandas` `OpenCV`
-
-**Pipeline**
-
-```text
-Historical Climate Data
-        ↓
-Spatial Feature Engineering
-        ↓
-Conditional GAN
-        ↓
-Synthetic SPI Scenarios
-        ↓
-SSIM · PSNR · R² · RMSE
-        ↓
-Climate Risk Assessment
-```
+Understand the problem before optimizing the model.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🏥 Medical RAG Assistant
+### 🧩
 
-**RAG · LLM · Semantic Search**
+**System Thinking**
 
-> A production-oriented medical question-answering service built around retrieval-augmented generation.
-
-**Stack**
-
-`FastAPI` `FAISS` `LangChain` `LangGraph`
-`Mistral-7B GGUF` `BGE-M3` `Docker Compose`
-
-**Architecture**
-
-```text
-User Query
-    ↓
-BGE-M3 Embedding
-    ↓
-FAISS Top-K Retrieval
-    ↓
-Mistral-7B GGUF
-    ↓
-Low-Temperature Generation
-    ↓
-Medical Response
-```
-
-</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏭 Predictive Maintenance
-
-**RUL Prediction · Anomaly Detection · Explainable AI**
-
-> End-to-end intelligent monitoring system for equipment health and remaining useful life prediction.
-
-**Stack**
-
-`Python` `XGBoost` `Scikit-learn`
-`SHAP` `FastAPI` `Streamlit` `Docker`
-
-**Capabilities**
-
-* Time-series sensor processing
-* Feature engineering
-* LSTM-based prediction
-* Isolation Forest anomaly detection
-* SHAP-based interpretability
-* Interactive risk dashboard
+A model is one component of a larger intelligent system.
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🧩 Intelligent AI Systems
+### ⚡
 
-**Research → Engineering → Deployment**
+**Practical AI**
 
-> Building applied AI systems that bridge research prototypes and production environments.
+Research should eventually create something useful.
 
-```text
-Research
-   ↓
-Experiment
-   ↓
-Prototype
-   ↓
-API
-   ↓
-Containerization
-   ↓
-Deployment
-```
+</td>
 
-**Focus**
+<td align="center" width="25%">
 
-`Computer Vision`
-`Generative AI`
-`NLP`
-`Spatial ML`
-`MLOps`
+### 🛡️
+
+**Reliable AI**
+
+Accuracy matters, but so do robustness, explainability and deployment.
 
 </td>
 
@@ -439,149 +836,87 @@ Deployment
 
 </table>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:7C3AED&height=4&section=header" width="100%"/>
-
-### 🧬 `AI_RESEARCH_MAP`
+## 🧭 `CURRENT_DIRECTION`
 
 </div>
 
 ```text
-                         ┌──────────────────┐
-                         │  ARTIFICIAL AI   │
-                         └────────┬─────────┘
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-     │ COMPUTER     │     │ GENERATIVE   │     │ DATA /       │
-     │ VISION      │     │ AI / NLP     │     │ SPATIAL ML   │
-     └──────┬───────┘     └──────┬───────┘     └──────┬───────┘
-            │                    │                    │
-     ┌──────┼──────┐      ┌──────┼──────┐      ┌──────┼──────┐
-     │      │      │      │      │      │      │      │      │
-     ▼      ▼      ▼      ▼      ▼      ▼      ▼      ▼      ▼
-    CNN    GAN    YOLO    LLM    RAG   VLM    GIS   Climate  Risk
-     │      │      │      │      │      │      │      │      │
-     └──────┴──────┴──────┴──────┴──────┴──────┴──────┴──────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │ PRODUCTION AI   │
-                         └────────┬────────┘
-                                  │
-                    ┌─────────────┼─────────────┐
-                    ▼             ▼             ▼
-                 FastAPI        Docker       MLOps
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                 AI RESEARCH & ENGINEERING                │
+│                                                          │
+│     ┌───────────────┐       ┌────────────────┐           │
+│     │ Computer      │       │ Generative AI  │           │
+│     │ Vision        │◄─────►│ & LLM Systems  │           │
+│     └───────┬───────┘       └───────┬────────┘           │
+│             │                       │                    │
+│             └───────────┬───────────┘                    │
+│                         │                                │
+│                         ▼                                │
+│                Intelligent Systems                       │
+│                         │                                │
+│              ┌──────────┼──────────┐                     │
+│              ▼          ▼          ▼                     │
+│           Spatial      Data      MLOps                   │
+│             ML        Science   & Deployment             │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-<div align="center">
+I am continuously expanding my work toward **advanced AI systems that combine perception, reasoning, generation, data intelligence, and scalable deployment**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=4&section=header" width="100%"/>
-
-### 📊 `GITHUB_ANALYTICS.exe`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pouya-Azizzadh&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=7C3AED&text_color=FFFFFF&bg_color=0B1020" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Azizzadh&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=FFFFFF&bg_color=0B1020&langs_count=8" width="40%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pouya-Azizzadh&theme=transparent&hide_border=true&background=0B1020&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=FFFFFF&sideNums=FFFFFF" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pouya-Azizzadh&theme=react-dark&hide_border=true&bg_color=0B1020&color=67E8F9&line=7C3AED&point=FFFFFF&area=true&area_color=2563EB" width="95%"/>
-
-</div>
-
-<br>
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:7C3AED&height=4&section=header" width="100%"/>
 
-### 🐍 `CONTRIBUTION_SNAKE.exe`
+## 📊 `GITHUB_ACTIVITY`
 
-<img src="https://raw.githubusercontent.com/Pouya-Azizzadh/Pouya-Azizzadh/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pouya-Azizzadh&show_icons=true&theme=transparent&hide_border=true&title_color=67E8F9&icon_color=7C3AED&text_color=FFFFFF&bg_color=050816" width="48%"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Azizzadh&layout=compact&theme=transparent&hide_border=true&title_color=67E8F9&text_color=FFFFFF&bg_color=050816&langs_count=8" width="40%"/>
 
-<br>
+<br><br>
 
-<details>
-<summary align="center">🔬 &nbsp;<b>research interests</b></summary>
-
-<br>
-
-<div align="center">
-
-`Computer Vision` · `Generative AI` · `LLMs` · `RAG`
-
-`Deep Learning` · `Transformers` · `GANs` · `VLMs`
-
-`Reinforcement Learning` · `Spatial ML` · `Climate Risk`
-
-`Predictive Maintenance` · `Explainable AI` · `MLOps`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pouya-Azizzadh&theme=transparent&hide_border=true&background=050816&ring=7C3AED&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=FFFFFF&sideNums=FFFFFF" width="70%"/>
 
 </div>
 
-</details>
-
-<br>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=4&section=header" width="100%"/>
-
-### 💭 `RESEARCH.PHILOSOPHY`
-
-<br>
-
-> **“Build intelligent systems where research meets reality.”**
-
-<br>
-
-```text
-Ideas → Experiments → Models → Systems → Impact
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,50:2563EB,100:7C3AED&height=4&section=header" width="100%"/>
-
-### 🌐 `CONNECT.init()`
+## 🌐 `CONNECT`
 
 <br>
 
 <a href="https://github.com/Pouya-Azizzadh">
-<img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="55"/>
+<img src="https://img.icons8.com/fluency/96/github.png" width="58"/>
 </a>
 
    
 
 <a href="https://www.linkedin.com/in/pouya-azizzade">
-<img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="55"/>
+<img src="https://img.icons8.com/fluency/96/linkedin.png" width="58"/>
 </a>
 
    
 
 <a href="mailto:pwyazyzzadhbna@gmail.com">
-<img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Email" width="55"/>
+<img src="https://img.icons8.com/fluency/96/gmail-new.png" width="58"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,75:7C3AED,100:0B1020&height=160&section=footer" width="100%"/>
+`Research` · `Build` · `Learn` · `Share`
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,35:2563EB,65:312E81,100:050816&height=160&section=footer" width="100%"/>
 
 </div>
